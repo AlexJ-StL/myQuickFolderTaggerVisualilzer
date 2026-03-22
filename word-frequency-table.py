@@ -19,5 +19,5 @@ def get_word_frequency_table(file_path, threshold=5):
     return table_data
 
 
-word_table = get_word_frequency_table("codebase_tags.xlsx", threshold=10)
+word_table = get_word_frequency_table("codebase_tags.csv", threshold=10)
 print(word_table)

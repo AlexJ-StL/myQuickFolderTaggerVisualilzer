@@ -57,4 +57,4 @@ def generate_3d_semantic_plot(file_path, output_image="semantic_3d_plot.png"):
 
 
 # Run with your file path
-generate_3d_semantic_plot("codebase_tags.xlsx")
+generate_3d_semantic_plot("codebase_tags.csv")

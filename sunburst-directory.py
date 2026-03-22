@@ -65,4 +65,4 @@ def generate_sunburst(file_path, output_image="sunburst_directory.png"):
 
 
 # Run with your CSV path
-generate_sunburst("codebase_tags.xlsx")
+generate_sunburst("codebase_tags.csv")

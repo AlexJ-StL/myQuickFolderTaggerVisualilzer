@@ -55,7 +55,7 @@ def generate_multi_tech_stats(file_path):
 
 
 # Run
-filename = "codebase_tags.xlsx"
+filename = "codebase_tags.csv"
 dist, pairs, focus = generate_multi_tech_stats(filename)
 
 print("--- Tech Count Distribution ---")

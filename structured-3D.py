@@ -86,4 +86,4 @@ def generate_3d_node_topology(file_path, output_image="codebase_node_graph_3d.pn
 
 
 # Path to your file
-generate_3d_node_topology("codebase_tags.xlsx")
+generate_3d_node_topology("codebase_tags.csv")
