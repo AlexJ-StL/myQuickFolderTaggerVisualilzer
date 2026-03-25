@@ -1,13 +1,10 @@
-import pandas as pd
 from collections import Counter
 import itertools
 import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-def generate_multi_tech_stats(file_path):
-    df = pd.read_csv(file_path)
-    df.columns = [c.strip() for c in df.columns]
+def generate_multi_tech_stats(df, output_image="tech_synergy_pairs.png"):
     df = df.dropna(subset=["TECH"])
 
     # 1. Tech Combination Frequency
@@ -49,23 +46,7 @@ def generate_multi_tech_stats(file_path):
     plt.xlabel("Number of Repositories", fontsize=12)
     plt.ylabel("Technology Pairs", fontsize=12)
     plt.tight_layout()
-    plt.savefig("tech_synergy_pairs.png")
+    plt.savefig(output_image)
+    print(f"✅ Multi-tech synergy saved to {output_image}")
 
     return tech_count_dist, common_pairs, focus_stats
-
-
-# Run
-filename = "codebase_tags.csv"
-dist, pairs, focus = generate_multi_tech_stats(filename)
-
-print("--- Tech Count Distribution ---")
-for count, freq in sorted(dist.items()):
-    print(f"{count} Tech(s): {freq} repos")
-
-print("\n--- Top 10 Tech Pairs ---")
-for p, c in pairs[:10]:
-    print(f"{p[0]} & {p[1]}: {c}")
-
-print("\n--- Tech Stacks by Focus ---")
-for kw, top in focus.items():
-    print(f"Focus [{kw}]: {', '.join([f'{t} ({c})' for t, c in top])}")

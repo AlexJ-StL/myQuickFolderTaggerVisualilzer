@@ -1,29 +1,25 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
+import os
 
-
-def generate_sunburst(file_path, output_image="sunburst_directory.png"):
-    # Load and clean path data
-    df = pd.read_csv(file_path)
-    df.columns = [c.strip() for c in df.columns]
-    path_col = "PATH: C:\\Users\\AlexJ\\Documents\\Coding\\Repos\\"
-
-    # Split paths into Root and Subfolder levels
+def generate_sunburst(df, output_image="sunburst_directory.png"):
+    # Split paths using os safe separated paths
     def split_path(path):
-        parts = str(path).split("\\")
+        parts = str(path).split(os.sep)
         root = parts[0] if len(parts) > 0 else "Unknown"
         sub = parts[1] if len(parts) > 1 else "Main"
         return root, sub
 
-    df[["Root", "Sub"]] = df[path_col].apply(lambda x: pd.Series(split_path(x)))
+    # Use Clean_Path instead of original absolute hardcoded PATH
+    df[["Root_Lvl", "Sub_Lvl"]] = df["Clean_Path"].apply(lambda x: pd.Series(split_path(x)))
 
     # Analyze the top 12 roots for optimal visual resolution
-    top_roots = df["Root"].value_counts().nlargest(12).index
-    df_filtered = df[df["Root"].isin(top_roots)]
+    top_roots = df["Root_Lvl"].value_counts().nlargest(12).index
+    df_filtered = df[df["Root_Lvl"].isin(top_roots)]
 
-    root_data = df_filtered.groupby("Root").size().sort_values(ascending=False)
-    sub_data = df_filtered.groupby(["Root", "Sub"]).size()
+    root_data = df_filtered.groupby("Root_Lvl").size().sort_values(ascending=False)
+    sub_data = df_filtered.groupby(["Root_Lvl", "Sub_Lvl"]).size()
 
     # Visualization setup
     fig, ax = plt.subplots(figsize=(12, 12))
@@ -61,8 +57,4 @@ def generate_sunburst(file_path, output_image="sunburst_directory.png"):
     ax.set_title("Sunburst Directory Diagram: Repository Hierarchy", fontsize=18, pad=20)
     plt.tight_layout()
     plt.savefig(output_image)
-    print(f"Sunburst saved to {output_image}")
-
-
-# Run with your CSV path
-generate_sunburst("codebase_tags.csv")
+    print(f"✅ Sunburst saved to {output_image}")

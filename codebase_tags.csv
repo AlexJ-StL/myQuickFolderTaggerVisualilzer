@@ -1287,3 +1287,533 @@ C:\Users\AlexJ\Documents\Coding\.archived-repos\groq-repos\groq-api-cookbook,API
 C:\Users\AlexJ\Documents\Coding\.archived-repos\groq-repos\groq-api-cookbook\groq_streamlit_demo,AI chatbot,"Python, Streamlit"
 C:\Users\AlexJ\Documents\Coding\.archived-repos\groq-repos\groq-api-cookbook\langroid-llm-agents,multi-agent LLM framework,Python
 C:\Users\AlexJ\Documents\Coding\.archived-repos\groq-repos\groq-api-cookbook\litellm-proxy-groq,LLM proxy,"Python, Docker"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\groq-repos\groq-api-cookbook\phidata-mixture-of-agents,MLB recap,"Python, Phidata, Groq"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\groq-repos\groq-js,GROQ query engine,"JavaScript, Jest"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\groq-repos\groq-moa,multi-agent chat,"Python, Streamlit"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\groq-repos\groq-python,GroqAPI client,"Python, httpx, Pydantic"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\groq-repos\groq-SQL-queries-function-call,SQL query assistant,"Python, DuckDB, Groq"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\groq-repos\groq-typescript,REST API client,TypeScript
+C:\Users\AlexJ\Documents\Coding\.archived-repos\groq-repos\groq-voice,voice assistant,"Python, Groq, ElevenLabs"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\groq-repos\GroqApiLibrary,Groq API C# client,"C#, .NET, Newtonsoft.Json, System.Text.Json"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\groq-repos\groqcall,LLM function proxy,"Python, FastAPI"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\groq-repos\groqflow,AI model compilation,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\groq-repos\groqflow\docs,AI model compilation,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\groq-repos\groqflow\examples,AI model inference,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\groq-repos\groqflow\proof_points,model validation,"Python, GroqWare Suite"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\groq-repos\QuickAgent,voice assistant,"Python, Deepgram, Groq"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\groq-repos\realtime-voice-assistant-groq,voice assistant,"Next.js, Groq, Deepgram, Neets"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\groq-repos\speech-to-speech-demo,speech-to-speech demo,"Next.js, TypeScript"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Harvard-Algorithmic-Trading-with-AI,algorithmic trading,"Python, pandas, backtesting.py, yfinance, TA-Lib, ccxt"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Harvard-Algorithmic-Trading-with-AI\backtest,trading backtesting,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Harvard-Algorithmic-Trading-with-AI\research,algorithmic trading research,Not specified
+C:\Users\AlexJ\Documents\Coding\.archived-repos\huggingface-repos\hub-docs,documentation,"Markdown, Python"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\huggingface-repos\huggingface-vscode,AI codingassistant,"TypeScript, Node.js"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\huggingface-repos\huggingface_hub,huggingface client,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\huggingface-repos\huggingface_hub\docs,documentation generation,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\huggingface-repos\huggingface_hub\tests,test suite,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\huggingface-repos\smolagents,AI agent framework,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\huggingface-repos\smolagents\docs,documentationgeneration,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\huggingface-repos\tokenizers,texttokenization,Rust
+C:\Users\AlexJ\Documents\Coding\.archived-repos\huggingface-repos\tokenizers\docs,documentation generation,"Python, Sphinx, Rust"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\huggingface-repos\tokenizers\tokenizers,text tokenization,Rust
+C:\Users\AlexJ\Documents\Coding\.archived-repos\HumanLoop\asap,autonomous code fixer,"TypeScript, Node.js"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\HumanLoop\chatbot-starter,AI chatbot template,"Next.js, React, Vercel AI SDK, Humanloop, Tailwind CSS"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\HumanLoop\ChatGPT,ChatGPT clone,"Next.js, React, TypeScript, Tailwind CSS, Firebase, OpenAI"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\HumanLoop\hl-chatgpt-clone-typescript,user feedback,"Next.js, React"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\HumanLoop\humanloop-tutorial-python,FlaskHumanloop demo,"Python, Flask"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\HumanLoop\langchain,LLM application framework,"Python, JavaScript"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\HumanLoop\langchain\.devcontainer,LLM framework,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\HumanLoop\langchain\cookbook,LangChain cookbook,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\HumanLoop\langchain\docs,documentation,Markdown
+C:\Users\AlexJ\Documents\Coding\.archived-repos\HumanLoop\langchain\templates,LLM application templates,"Python, FastAPI, LangChain"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\HumanLoop\memorai,AIquestion generation,"Svelte, webpack, FastAPI, Python, spaCy"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\HumanLoop\memorai\extension,Chrome extension,"Svelte, Webpack"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\HumanLoop\pawls,PDF annotation,"React, Python, Docker"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\HumanLoop\pawls\cli,PDF annotation management,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\HumanLoop\snorkel,weak supervision,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\HumanLoop\test,datadebugging,"Python, React"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\idiolect,voice user interface,Kotlin
+C:\Users\AlexJ\Documents\Coding\.archived-repos\IndyDevDan-repos\aider-mcp-server,AI coding,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\IndyDevDan-repos\always-on-ai-assistant,AI voice assistant,"Python, Deepseek-V3, RealtimeSTT, Typer, ElevenLabs, Ollama"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\IndyDevDan-repos\benchy,LLM benchmarking,"Vue.js, Python"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\IndyDevDan-repos\benchy\server,unknown,unknown
+C:\Users\AlexJ\Documents\Coding\.archived-repos\IndyDevDan-repos\claude-3-7-sonnet-starter-pack,Claude Sonnet demos,"Python, uv"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\IndyDevDan-repos\claude-code-is-programmable,AI agent scripting,"Python, JavaScript"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\IndyDevDan-repos\diffbro,AI code review,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\IndyDevDan-repos\elm-itv-benchmark,LLM benchmarking,"Bun, Promptfoo, Ollama"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\IndyDevDan-repos\indydevtools,agentic toolbox,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\IndyDevDan-repos\indydevtools\lib_resume_builder_AIHawk,AIresume builder,"Python, LangChain, OpenAI, Selenium"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\IndyDevDan-repos\infinite-agentic-loop,infinite agentic,"Claude Code, Shell"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\IndyDevDan-repos\just-prompt,Unified LLM interface,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\IndyDevDan-repos\lllm,local LLM inference,Bash
+C:\Users\AlexJ\Documents\Coding\.archived-repos\IndyDevDan-repos\llm-prompt-testing-quick-start,LLM evaluation and testing,"Node.js, JavaScript"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\IndyDevDan-repos\mermaid-js-ai-agent,AI diagram generation,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\IndyDevDan-repos\multi-agent-postgres-data-analytics,multi-agent analytics,"Python, AutoGen, GPT-4, Postgres, Guidance, Poetry"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\IndyDevDan-repos\multi-agent-postgres-data-analytics\api-server,API server,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\IndyDevDan-repos\personal-ai-starter-pack,personalAI assistant,"Python, OpenAI, Groq, AssemblyAI, ElevenLabs"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\IndyDevDan-repos\poc-realtime-ai-assistant,Realtime AI assistant,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\IndyDevDan-repos\pocket-pick-myfork,knowledge base,"Python, SQLite"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\IndyDevDan-repos\Prompt-Engineering-Guide,prompt engineering,"Next.js, React, Nextra"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\IndyDevDan-repos\Prompt-Engineering-Guide\guides,Prompt engineering,Markdown
+C:\Users\AlexJ\Documents\Coding\.archived-repos\IndyDevDan-repos\quick-data-mcp,data analysis,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\IndyDevDan-repos\quick-data-mcp\quick-data-mcp,universal data analytics,"Python, MCP, pandas, plotly"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\IndyDevDan-repos\single-file-agents,single-file agents,"Python, uv"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\IndyDevDan-repos\single-file-agents\codebase-architectures,architecture patterns,"Python, Node.js"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\IndyDevDan-repos\single-file-agents\example-agent-codebase-arch,agent architecture,unspecified
+C:\Users\AlexJ\Documents\Coding\.archived-repos\IndyDevDan-repos\single-file-agents\openai-agents-examples,OpenAI Agents,"Python, OpenAI Agents"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\keep,alert management,"Go, React"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\keep\docs,documentation,"Node.js, Mintlify"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\keep\elk,ELK integration,"Docker, Elasticsearch, Logstash, Kibana, Filebeat"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\keep\keep-ui,providermanagement,"JavaScript, React"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\keep\keycloak,Keycloak customization,"Java, JavaScript, Docker"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\keep\proxy,development proxy,"Docker, Squid, Nginx"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\kiota,OpenAPI code generator,.NET
+C:\Users\AlexJ\Documents\Coding\.archived-repos\kiota\abstractions,SDK abstractions,".NET, Go, Java, PHP, Python, Ruby, TypeScript"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\kiota\authentication,SDK authentication,".NET, Go, Java, Ruby, TypeScript, Python, PHP"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\kiota\http,Kiota HTTP,".NET, Go, Java, Ruby, TypeScript, PHP, Python"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\kiota\it,integration testing,".NET, PowerShell"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\kiota\serialization,serialization library,".NET, Go, Java, TypeScript, Ruby, PHP, Python"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\knowledge,RAGknowledge collector,"Node.js, OpenAI, pgvector"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Landing_AI_Projects\landingai-python,computer vision SDK,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Landing_AI_Projects\vision-agent,vision code generation,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\langchain-repos\langchain-agents-tutorial,virtual assistant,"Python, Langchain, Tweepy, Zapier NLA, OpenAI"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\langgraph,agent orchestration,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\langgraph\examples,LangGraphexamples,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\langgraph\libs\checkpoint,graph checkpointing,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\langgraph\libs\checkpoint-conformance,checkpoint conformance,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\langgraph\libs\checkpoint-postgres,Postgres checkpoint,"Python, Postgres"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\langgraph\libs\checkpoint-sqlite,LangGraph checkpoint,"Python, SQLite, aiosqlite"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\langgraph\libs\cli,LangGraph CLI,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\langgraph\libs\langgraph,agent orchestration,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\langgraph\libs\prebuilt,LangGraph agents,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\langgraph\libs\sdk-js,LangGraph SDK,"TypeScript, Node.js"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\langgraph\libs\sdk-py,LangGraphSDK,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\leaked-system-prompts,LLMsystem prompts,Markdown
+C:\Users\AlexJ\Documents\Coding\.archived-repos\litellm,LLM gateway,"Python, JavaScript"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\litellm\.github\workflows,PyPI publishing,"GitHub Actions, Python"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\litellm\cookbook\benchmark,LLM benchmark,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\litellm\cookbook\codellama-server,LLMAPI proxy,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\litellm\cookbook\litellm_proxy_server,LLM proxy,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\litellm\docker,LLM Service,"Docker, Docker Compose"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\litellm\docker\build_from_pip,LiteLLM Proxy Docker,"Python, Docker"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\litellm\docs\my-website,static site,"JavaScript, React, Docusaurus"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\litellm\enterprise,LLM proxy enterprise,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\litellm\enterprise\enterprise_ui,Admin UI,"Python, React"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\litellm\litellm\anthropic_interface,LLM API proxy,"Python, YAML"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\litellm\litellm\batch_completion,LLMbatching,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\litellm\litellm\caching,LLM caching,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\litellm\litellm\completion_extras,LLM completion bridge,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\litellm\litellm\experimental_mcp_client,MCP client,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\litellm\litellm\google_genai,Google GenAI wrapper,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\litellm\litellm\integrations,logging integrations,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\litellm\litellm\litellm_core_utils,LLM utilities,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\litellm\litellm\llms,LLMprovider mapping,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\litellm\litellm\passthrough,LLMAPI routing,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\litellm\litellm\proxy,OpenAI proxy,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\litellm\litellm\realtime_api,OpenAI Realtime,Unknown
+C:\Users\AlexJ\Documents\Coding\.archived-repos\litellm\litellm\secret_managers,secret manager,unspecified
+C:\Users\AlexJ\Documents\Coding\.archived-repos\litellm\litellm-js\proxy,web application,Node.js
+C:\Users\AlexJ\Documents\Coding\.archived-repos\litellm\litellm-js\spend-logs,web app,Node.js
+C:\Users\AlexJ\Documents\Coding\.archived-repos\litellm\litellm-proxy-extras,litellm proxy,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\litellm\tests,LLM API wrapper,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\litellm\tests\llm_translation,LLMtesting,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\litellm\tests\router_unit_tests,router unit tests,Unknown
+C:\Users\AlexJ\Documents\Coding\.archived-repos\litellm\tests\test_litellm,unit testing,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\litellm\ui\litellm-dashboard,Next.js app,"Next.js, React, TypeScript"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\livekit-cli,LiveKit CLI,Go
+C:\Users\AlexJ\Documents\Coding\.archived-repos\livekit-cli-1,LiveKit CLI,Go
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP,LLM inference,C/C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\ci,Continuous Integration,"Bash, Docker"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\examples\batched,batched generation,C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\examples\batched.swift,batchedLLM,Swift
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\examples\convert-llama2c-to-ggml,model conversion,C
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\examples\deprecation-warning,LLM inference,C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\examples\diffusion,diffusion text generation,C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\examples\embedding,text embedding,C++ (llama.cpp)
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\examples\eval-callback,LLM inference callback,"C++, CUDA"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\examples\gguf-hash,tensorhashing,"C, CMake"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\examples\gritlm,instruction-tuned embeddings,"C++, Shell"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\examples\jeopardy,LLM benchmarking,"Bash, Python"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\examples\llama.android,unknown,unknown
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\examples\llama.swiftui,iOS LLM inference,"SwiftUI, C++"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\examples\lookahead,lookahead decoding,C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\examples\lookup,Prompt lookup decoding,C/C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\examples\parallel,parallel LLM serving,C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\examples\passkey,passkey retrieval,C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\examples\retrieval,cosine similarity search,C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\examples\simple,LLM inference,C/C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\examples\simple-chat,simple chat,"C++, llama.cpp"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\examples\simple-cmake-pkg,C++ llama.cpp example,"C++, CMake"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\examples\speculative,speculative decoding,C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\examples\speculative-simple,speculative decoding,C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\examples\sycl,SYCLdevice discovery,"C++, SYCL, Intel oneAPI"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\examples\training,LLM fine-tuning,C/C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\gguf-py,GGUF library,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\grammars,LLM output grammar constraint,"C++, Python"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\models\templates,chat templategeneration,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\tools\batched-bench,LLM batched decoding benchmark,C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\tools\cvector-generator,control vector generation,C/C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\tools\export-lora,LoRA merging,C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\tools\gguf-split,gguf file splitter,unknown
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\tools\imatrix,importancematrix,C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\tools\llama-bench,llama benchmark,C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\tools\main,LLaMA inference CLI,C/C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\tools\mtmd,multimodal support,"C/C++, Python"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\tools\perplexity,perplexity calculation,C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\tools\quantize,model quantization,C/C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\tools\rpc,distributed LLM inference,"C/C++, cmake"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\tools\run,LLM inference,C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\tools\server,http llm server,"C++, React"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Llama-CCP\tools\tts,text to speech,"C/C++, Python"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama-index-repos\llama_index,llm dataframework,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama-index-repos\llama_index\llama-dev,monorepo CLI,"Python, UV, Git"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama-index-repos\llama_index\llama-index-cli,document query CLI,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama-index-repos\llama_index\llama-index-core,LLM RAG framework,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama-index-repos\llama_index\llama-index-experimental,LlamaIndex experimental,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama-index-repos\llama_index\llama-index-finetuning,LLM finetuning,"Python, LlamaIndex"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama-index-repos\llama_index\llama-index-instrumentation,observability,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama-index-repos\llama_index\llama-index-integrations,LlamaIndex integrations,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama-index-repos\llama_index\llama-index-packs,LlamaIndex pack management,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama-index-repos\llama_index\llama-index-utils,utility library,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama-index-repos\LogiQCLI,AI Development Assistant,.NET
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama-index-repos\mcp-llamaindex-ai,OAuth 2.1 MCP server,"Next.js, Prisma, PostgreSQL, Redis, Auth.js"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama-index-repos\semtools,semantic search,Rust
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama-index-repos\template-workflow-basic-ui,LLM deployment,"Python, Vite"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama-index-repos\template-workflow-data-extraction,dataextraction,"Python, TypeScript"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama-index-repos\template-workflow-data-extraction\ui,Data extraction UI,"Next.js, React"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama-index-repos\vibe-llama,LlamaIndex toolkit,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama-index-repos\workflows-py,AI workfloworchestration,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama-index-repos\workflows-py\.changeset,release versioning,JavaScript
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama-index-repos\workflows-ts,workflow engine,TypeScript
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama-index-repos\workflows-ts\demo,LlamaIndex workflows,"TypeScript (React, Vite, Express, Hono, Next.js, Cloudflare Workers, Deno, etc.)"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp,LLM inference,C/C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\ci,continuous integration,"Bash, Docker, GitHub Actions"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\examples\batched,batched text generation,C/C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\examples\batched.swift,Swift batched,Swift
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\examples\convert-llama2c-to-ggml,model conversion,C/C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\examples\deprecation-warning,LLM inference,C/C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\examples\diffusion,diffusiontext generation,C/C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\examples\embedding,text embedding,C/C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\examples\eval-callback,inferencecallback,"C/C++, CUDA"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\examples\gguf-hash,GGUF tensor hashing,C
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\examples\gritlm,dual-purpose LLM,C/C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\examples\jeopardy,llm fact knowledge benchmark,"bash, Python, C/C++"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\examples\llama.android,unknown,unknown
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\examples\llama.swiftui,LLMinference on iOS,"Swift, SwiftUI, C/C++"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\examples\lookahead,lookahead decoding,C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\examples\lookup,prompt lookupdecoding,C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\examples\parallel,parallel inference,C
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\examples\passkey,passkey retrieval,C/C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\examples\retrieval,semantic retrieval,C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\examples\simple,LLM inference,C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\examples\simple-chat,LLM chat,C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\examples\simple-cmake-pkg,llama.cpp example,"C++, CMake"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\examples\speculative,speculative decoding,C/C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\examples\speculative-simple,speculative decoding,C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\examples\sycl,SYCL device listing,"C++, SYCL, Intel oneAPI"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\examples\training,LLMfinetuning,C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\gguf-py,GGUF file handling,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\grammars,grammar-based LLM guidance,"C++, Python, JavaScript"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\models\templates,chat template generation,"Python, Jinja"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\tools\batched-bench,batched decoding benchmark,C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\tools\cvector-generator,control vector,C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\tools\export-lora,LoRA merging,C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\tools\gguf-split,GGUFsplitter,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\tools\imatrix,importance matrix generation,C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\tools\llama-bench,llama.cpp benchmark,"C++, CUDA"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\tools\main,LLM inference,C/C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\tools\mtmd,multimodal inference,C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\tools\perplexity,model perplexity,C++ CUDA
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\tools\quantize,LLM quantization,C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\tools\rpc,distributedLLM inference,"C++, CUDA, Metal"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\tools\run,LLM inference,C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\tools\server,LLM HTTP server,"C++, React"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llama.cpp\tools\tts,text to speech,"C/C++, Python"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llm,LLM CLI,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llm-engineer-repos\claude-engineer,self-improving AI,"Python, Flask, Tailwind"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llm-engineer-repos\claude-engineer\Claude-Eng-v2,AI softwareengineer,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llm-engineer-repos\deepseek-engineer,AI coding assistant,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llm-engineer-repos\Insanely-Fast-Transcription,speech-to-text,"Python, Hugging Face Transformers, FFmpeg"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llm-engineer-repos\instagraph,knowledge graph,"Python, Flask, OpenAI GPT-3.5"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llm-engineer-repos\lowdb,local JSON database,"TypeScript, Node.js"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llm-engineer-repos\RepoToTextForLLMs,repository summarization,"Python, PyGithub, tqdm"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llm-engineer-repos\RepoToTextForLLMs\repo2txt,GitHub repo summarization,"Python, PyGithub, tqdm"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llm-foundry,llm toolkit,"Python, PyTorch, Composer"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llm-foundry\llmfoundry,LLM training,"Python, Composer, PyTorch"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llm-foundry\mcli,LLM training orchestration,"MosaicML platform, MCLI, Python"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llm-foundry\scripts\data_prep,data preparation,"Python, HuggingFace, MosaicML Streaming"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llm-foundry\scripts\eval,LLM evaluation,"Python, PyTorch, HuggingFace"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llm-foundry\scripts\inference,LLM inference,"Python, Hugging Face Transformers, PyTorch"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\llm-foundry\scripts\train,LLM training,"Python, PyTorch, HuggingFace, Composer"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\lmarena-repos\arena-hard-auto,LLM evaluation,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\lmarena-repos\arena-hard-auto\BenchBuilder,LLM-based benchmark curation,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\lmarena-repos\arena-hard-auto\PPE,RLHF evaluation,"Python, Huggingface, Deepspeed, Streamlit"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\lmarena-repos\copilot-arena,AIcoding assistant,"TypeScript, Node.js"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\lmarena-repos\copilot-arena\data,sample dataset,None
+C:\Users\AlexJ\Documents\Coding\.archived-repos\lmarena-repos\copilot-arena\server,AI code completion,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\lmarena-repos\copilot-arena\vscode,AI code assistant,TypeScript
+C:\Users\AlexJ\Documents\Coding\.archived-repos\lmarena-repos\lmarena.github.io,static blog,"Ruby, Jekyll"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\lobe-chat,AI chat UI,"TypeScript, React, Next.js"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\lobe-chat\apps\desktop,desktop client,"Electron, Node.js, TypeScript"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\lobe-chat\packages\electron-client-ipc,electronIPC client,"TypeScript, Electron"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\lobe-chat\packages\electron-server-ipc,Electron IPC,"TypeScript, Electron"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\lobe-chat\packages\file-loaders,file loading,TypeScript
+C:\Users\AlexJ\Documents\Coding\.archived-repos\lobe-chat\packages\web-crawler,web crawler,"TypeScript, Node.js"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\local-deep-researcher,web researchassistant,"Python, LangGraph"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\lost-stats.github.io,statistical reference,"Ruby, Jekyll"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\lost-stats.github.io\Data,user contributeddata,None
+C:\Users\AlexJ\Documents\Coding\.archived-repos\lumentis,AI documentationgeneration,"TypeScript, Node.js"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\marker,document conversion,"Python, PyTorch"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\marker\examples,PDF to Markdown conversion,"Python, Modal, FastAPI"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\markitdown,markdown conversion,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\markitdown\packages\markitdown,fileto markdown conversion,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\markitdown\packages\markitdown-mcp,markdown conversion,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\markitdown\packages\markitdown-sample-plugin,MarkItDown plugin,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\martin-shkreli-repos\models,stock market modeling,Microsoft Excel
+C:\Users\AlexJ\Documents\Coding\.archived-repos\MCP-repos\archived-servers,MCP servers,"TypeScript, Python"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mem4ai,LLMmemory,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\MemGPT,stateful agents,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\MemGPT\certs,local HTTPS dev certs,mkcert
+C:\Users\AlexJ\Documents\Coding\.archived-repos\MemGPT\examples\files,file streaming,"Python, letta-client, requests, rich"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\MemGPT\examples\personal_assistant_demo,personal assistant,"Python, Letta, Google API, Twilio, Flask"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\MemGPT\examples\resend_example,emailsending,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\MemGPT\letta\local_llm,Local LLM,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\MemGPT\letta\plugins,plugin system,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\MemGPT\paper_experiments,document question answering,"Python, PostgreSQL, pgvector, OpenAI API, Hugging Face"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\meta-repos\faiss,vector similarity search,"C++, Python, CUDA"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\meta-repos\faiss\benchs,faiss benchmarks,"Python, C++"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\meta-repos\faiss\contrib,Faiss utilities,"Python, PyTorch, HDF5, SWIG"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\meta-repos\faiss\demos,faiss demos,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\meta-repos\llama-models,LLM management,"Python, PyTorch"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\meta-repos\llama-stack,AI application stack,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\meta-repos\llama-stack\docs,documentation,"Node.js, npm"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\meta-repos\llama-stack\llama-recipes,llama examples,"Python, PyTorch, Hugging Face Transformers"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\meta-repos\llama-stack\tests,AI stack,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\meta-repos\llama-stack-apps,agentic applications,"Python, Gradio"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\meta-repos\llama-stack-apps\examples,Llama Stack examples,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\meta-repos\llama-stack-client-kotlin,android ai inference,"Kotlin, OkHttp, ExecuTorch"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\meta-repos\llama-stack-client-node,LLM API client,TypeScript
+C:\Users\AlexJ\Documents\Coding\.archived-repos\meta-repos\llama-stack-client-python,API client,"Python, httpx"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\meta-repos\llama3,LLM inference,"Python, PyTorch"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\meta-repos\llama3\.pytest_cache,pytest cache,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\meta-repos\Prophet,time series forecasting,"R, Python"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\meta-repos\Prophet\docs,documentationsite,"Jekyll, Ruby"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\meta-repos\Prophet\python,time series forecasting,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\meta-repos\Prophet\python_shim,time series forecasting,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\meta-repos\PurpleLlama,LLM safety,"Python, PyTorch"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\meta-repos\PurpleLlama\CodeShield,LLM code filtering,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\meta-repos\PurpleLlama\CybersecurityBenchmarks,LLM cybersecurity benchmark,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\meta-repos\PurpleLlama\Llama-Guard,LLM safety guardrails,"Python, PyTorch"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\meta-repos\PurpleLlama\Llama-Guard2,LLM guardrail,"Python, PyTorch"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\meta-repos\PurpleLlama\Llama-Guard3,content moderation,"Python, PyTorch"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\meta-repos\PurpleLlama\Prompt-Guard,prompt injection detection,"Python, Hugging Face Transformers"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Microsoft-repos\finance-advanced-analytics,advanced analytics,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Microsoft-repos\ms-kernel-repos\ai-developer,Semantic Kernel workshop,"C#, Python, Java, Semantic Kernel, Azure AI"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Microsoft-repos\ms-kernel-repos\DeepSpeed-Kernels,text-generation acceleration,"CUDA, C++"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Microsoft-repos\ms-kernel-repos\kernel-memory,AI memory,".NET, C#"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Microsoft-repos\ms-kernel-repos\kernel-memory-extension-example,Kernel Memory Postgres extension,"C#, .NET, Postgres"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Microsoft-repos\ms-kernel-repos\lugh,starter template,unspecified
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Microsoft-repos\ms-kernel-repos\micronaire,RAG evaluation,".NET (C#), Semantic Kernel"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Microsoft-repos\ms-kernel-repos\semantic-kernel,AIagent framework,"Python, .NET, Java"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Microsoft-repos\ms-kernel-repos\semantic-kernel-java,LLM orchestration,Java
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Microsoft-repos\ms-kernel-repos\semantic-kernel-starters,Semantic Kernel samples,"C#, Python, TypeScript, Java"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Microsoft-repos\ms-kernel-repos\SemanticKernelCookBook,SemanticKernel tutorial,".NET, Python, Java"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Microsoft-repos\ms-kernel-repos\surface-duo-oss-kernel.build,kernel build,"Make, Bash"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Microsoft-repos\ms-kernel-repos\surface-duo-oss-kernel.manifest,kernel build,"repo, Linux kernel"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Microsoft-repos\ms-kernel-repos\surface-duo-oss-kernel.tests,Surface Duo kernel,"C, Makefile"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Microsoft-repos\ms-kernel-repos\surface-duo-oss-platform.vendor.opensource.audio-kernel,SurfaceDuo kernel,"C, Makefile"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Microsoft-repos\ms-kernel-repos\surface-duo-oss-platform.vendor.opensource.camera-kernel,Surface Duo kernel,"C, Makefile"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Microsoft-repos\Power-Fx,low-code language,".NET, C#"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Microsoft-repos\Power-Fx\docs,Power Fx documentation,Markdown
+C:\Users\AlexJ\Documents\Coding\.archived-repos\Microsoft-repos\PromptWizard,prompt optimization,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mindsdb,AIdatabase,"Python, Docker"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mindsdb\docker,Docker images,"Docker, Python"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mindsdb\docker\db_images,docker image building,Docker
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mindsdb\docs,documentation,"Node.js, Mintlify"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mindsdb\mindsdb,federated query engine,"Python, SQL, Vector Libraries, HTTP/REST"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mindsdb\mindsdb\integrations,data integration,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mindsdb\mindsdb\migrations,database migration,"Python, Alembic"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mindsdb\mindsdb hacktoberfest,RAG app builder,"Python, MindsDB"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mindsdb\mindsdb hacktoberfest\use-cases,hacktoberfest use-cases,Markdown
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mindsdb\tests,test suite,"Python, pytest, locust, coveralls"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mistral-repos\client-python,Mistral AI client,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mistral-repos\cookbook,mistralcookbook,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mistral-repos\mistral-inference,LLMinference,"Python, PyTorch"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mistral-repos\mistral.rs,LLM inference,Rust
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mistral-repos\mistral.rs\calibration_data,calibration data,None
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mistral-repos\mistral.rs\docs,LLM inference,Rust
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mistral-repos\mistral.rs\examples,cross-language examples,"Python, HTTP Server, Rust"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mistral-repos\mistral.rs\mistralrs,LLM inference,Rust
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mistral-repos\mistral.rs\mistralrs-audio,audio utilities,Rust
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mistral-repos\mistral.rs\mistralrs-bench,LLM benchmarking,Rust
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mistral-repos\mistral.rs\mistralrs-core,LLM inference,Rust
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mistral-repos\mistral.rs\mistralrs-macros,Rust macros,Rust
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mistral-repos\mistral.rs\mistralrs-mcp,MCP client,Rust
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mistral-repos\mistral.rs\mistralrs-paged-attn,paged attention,Rust
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mistral-repos\mistral.rs\mistralrs-pyo3,LLM inference,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mistral-repos\mistral.rs\mistralrs-quant,model quantization,Rust
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mistral-repos\mistral.rs\mistralrs-server-core,LLMserving,Rust
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mistral-repos\mistral.rs\mistralrs-vision,vision utilities,Rust
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mistral-repos\mistral.rs\mistralrs-web-chat,multimodal LLM chat,"Rust, HTML, CSS, JS"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mixture-of-agents-repos\groq-moa,Mixtureof Agents,"Python, Streamlit"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mixture-of-agents-repos\MoA,Mixtureof Agents,"Python, Together API"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mixture-of-agents-repos\MoA\alpaca_eval,LLM evaluation,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mixture-of-agents-repos\MoA\FastChat,LLM serving,"Python, PyTorch, HuggingFace Transformers, Gradio"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mixture-of-agents-repos\MoA\FLASK,LLM evaluation,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mozilla-ai-repos\agent-factory,agent generation,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mozilla-ai-repos\agent-factory\tests,agent factory testing,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mozilla-ai-repos\any-agent,agent framework interface,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mozilla-ai-repos\any-agent\demo,surfspot finder,"Streamlit, Docker"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mozilla-ai-repos\any-guardrail,guardrail interface,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mozilla-ai-repos\any-llm,unified llm api,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mozilla-ai-repos\document-to-podcast,document to podcast,"Python, llama.cpp, Streamlit"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mozilla-ai-repos\encoderfile,building encoder executables,Rust
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mozilla-ai-repos\llamafile,single-file LLM,C/C++
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mozilla-ai-repos\llamafile\localscore,LLM benchmarking,"C++ (llama.cpp, llamafile)"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mozilla-ai-repos\lumigator,LLM evaluation,"Python, FastAPI, Ray, Docker, MinIO, SQLite"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mozilla-ai-repos\lumigator\notebooks,LLM evaluation notebooks,"Python, Jupyter"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mozilla-ai-repos\mcp-registry,MCP registry,"Go, MongoDB"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mozilla-ai-repos\mcp-registry\docs,registry documentation,"OpenAPI, JSON"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mozilla-ai-repos\mcpd,MCP daemon,Go
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mozilla-ai-repos\mcpd-client,MCP server manager,"Electron, React, TypeScript"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mozilla-ai-repos\mcpd-client\mcpd-setup,MCP server setup,Node.js
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mozilla-ai-repos\mcpd-plugins-sdk-go,mcpd middleware,"Go, gRPC, Protobuf"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mozilla-ai-repos\mcpd-plugins-sdk-python,mcpd plugin SDK,"Python, grpcio, protobuf"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mozilla-ai-repos\mcpd-sdk-javascript,mcpd sdk,TypeScript
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mozilla-ai-repos\mcpd-sdk-python,dynamic tool invocation,"Python, requests, cachetools"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mozilla-ai-repos\speech-to-text,audio transcription,"Python, Docker"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mozilla-ai-repos\speech-to-text\demo,speech-to-text,"Python, Docker"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mozilla-ai-repos\speech-to-text-finetune,speech to text finetuning,"Python, Hugging Face, Gradio"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\MS-Prompt-Guidance,language model guidance,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\MS-Prompt-Guidance\tests,LLM testing,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\multi-container-app,Docker tutorial,Docker
+C:\Users\AlexJ\Documents\Coding\.archived-repos\multi-container-app\.pytest_cache,pytest caching,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mypy,static type checker,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mypy\docs,documentation,"Sphinx, reStructuredText, Furo"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mypy\misc\docker,Docker test runner,"Python, Docker, Bash"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mypy\mypyc,C extension compiler,"Python, mypy, C"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mypy\test-data\unit,type checking,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\mypy-PyCharm-plugin,mypy integration,"Java, Gradle"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\n-levels-of-rag,RAG tutorial,"Python, LanceDB, OpenAI, Cohere"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\n-levels-of-rag\rag_app,RAG CLI,"Python, LanceDB"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\nautilus_trader,algorithmic trading,"Python, Rust, Cython"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\nautilus_trader\crates\analysis,portfolio analysis,Rust
+C:\Users\AlexJ\Documents\Coding\.archived-repos\nautilus_trader\crates\backtest,backtesting engine,Rust
+C:\Users\AlexJ\Documents\Coding\.archived-repos\nautilus_trader\crates\cli,trading platform CLI,Rust
+C:\Users\AlexJ\Documents\Coding\.archived-repos\nautilus_trader\crates\common,trading system foundation,"Rust, PyO3"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\nautilus_trader\crates\core,core utilities,Rust
+C:\Users\AlexJ\Documents\Coding\.archived-repos\nautilus_trader\crates\cryptography,cryptographic utilities,Rust
+C:\Users\AlexJ\Documents\Coding\.archived-repos\nautilus_trader\crates\data,market data processing,Rust
+C:\Users\AlexJ\Documents\Coding\.archived-repos\nautilus_trader\crates\execution,order execution,Rust
+C:\Users\AlexJ\Documents\Coding\.archived-repos\nautilus_trader\crates\indicators,technical analysis indicators,Rust
+C:\Users\AlexJ\Documents\Coding\.archived-repos\nautilus_trader\crates\infrastructure,database messaging infrastructure,"Rust, Redis, PostgreSQL, PyO3"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\nautilus_trader\crates\live,live trading system,Rust
+C:\Users\AlexJ\Documents\Coding\.archived-repos\nautilus_trader\crates\model,trading domain model,Rust
+C:\Users\AlexJ\Documents\Coding\.archived-repos\nautilus_trader\crates\network,networking library,Rust
+C:\Users\AlexJ\Documents\Coding\.archived-repos\nautilus_trader\crates\persistence,tradingpersistence,Rust
+C:\Users\AlexJ\Documents\Coding\.archived-repos\nautilus_trader\crates\portfolio,portfolio management,Rust
+C:\Users\AlexJ\Documents\Coding\.archived-repos\nautilus_trader\crates\pyo3,Python bindings,"Rust, Python"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\nautilus_trader\crates\risk,risk management,Rust
+C:\Users\AlexJ\Documents\Coding\.archived-repos\nautilus_trader\crates\serialization,tradingserialization,Rust
+C:\Users\AlexJ\Documents\Coding\.archived-repos\nautilus_trader\crates\system,algorithmic trading system,Rust
+C:\Users\AlexJ\Documents\Coding\.archived-repos\nautilus_trader\crates\testkit,test utilities,Rust (with optional Python bindings via PyO3)
+C:\Users\AlexJ\Documents\Coding\.archived-repos\nautilus_trader\crates\trading,algorithmic trading,Rust
+C:\Users\AlexJ\Documents\Coding\.archived-repos\nautilus_trader\examples,algorithmic trading,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\nautilus_trader\python,algorithmic trading,"Python, Rust"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\nautilus_trader\python\examples,algorithmictrading,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\nautilus_trader\scripts,dataset curation,Bash
+C:\Users\AlexJ\Documents\Coding\.archived-repos\nautilus_trader\tests\mem_leak_tests,memory profiling,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\nextauth-mongodb,web application,"Next.js, TypeScript"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\node-pty,pseudoterminal bindings,"Node.js, TypeScript, C++"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\node-pty\deps\winpty,windows pty,"C++, Makefile"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\node-pty\examples\electron,electron terminal,"Electron, node-pty, xterm.js"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\node-pty\examples\killDeepTree,Windows process kill,"Node.js, webpack"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\notdiamond-python,LLM routing,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\octofriend,AI coding assistant,"Node.js, TypeScript"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\omni-complete,LLM autocomplete,"Vue.js, Python Flask"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OmniGen,unified image generation,"Python, PyTorch"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\open-assistant-api,AI assistant API,"Python, Docker"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\open-codex,AI codingagent,"Node.js, TypeScript"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\open-codex\codex-cli\examples,Codex examples,"Bash, YAML"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\open-interpreter,code interpreter,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\open-interpreter\examples,Open Interpreter examples,"Python, Jupyter"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\open-manus-repos\MetaGPT,multi-agent software development,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\open-manus-repos\MetaGPT\.devcontainer,multi-agent AI framework,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\open-manus-repos\OpenManus,AI agent framework,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\open-operator,web agent,"Next.js, React, Stagehand, Browserbase, OpenAI"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\open-router-repos\openrouter-examples-python,OpenRouterexamples,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\open-router-repos\openrouter-runner,LLM serving,"Python, vLLM"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\open-router-repos\schemas,model routing,JSON
+C:\Users\AlexJ\Documents\Coding\.archived-repos\open-source-notebook-lm-repos\open-notebooklm,PDF-to-podcast,"Python, Gradio"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\open-source-notebook-lm-repos\pdf-to-podcast,PDF podcastgenerator,"Python, Gradio, Gemini, OpenAI"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\openclaw-repos\barnacle,Discord bot,"Bun, Carbon"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\openclaw-repos\clawdbot,personal AI assistant,"Node.js, TypeScript"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\openclaw-repos\clawdbot\Swabble,wake-word hook,"Swift, Speech.framework"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\openclaw-repos\clawdhub,agent skillregistry,"TanStack Start, Convex, OpenAI"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\openclaw-repos\clawdhub\docs,skill registry,"TypeScript, TanStack Start, Convex, Vercel"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\openclaw-repos\lobster,typed workflow shell,"TypeScript, Node.js"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\openclaw-repos\openclaw,personal AIassistant,"Node.js, TypeScript"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\openclaw-repos\openclaw\Swabble,wake word hook,Swift
+C:\Users\AlexJ\Documents\Coding\.archived-repos\openclaw-repos\skills,skill repository,Unknown
+C:\Users\AlexJ\Documents\Coding\.archived-repos\opencode,AIcoding agent,"TypeScript, Node.js"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\opencode\.opencode\glossary,translation glossary,Markdown
+C:\Users\AlexJ\Documents\Coding\.archived-repos\opencode\github,AI code assistant,"TypeScript, Bun, GitHub Actions"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\opencode\openbb-repos\agents-for-openbb,OpenBB agent,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\opencode\openbb-repos\backends-for-openbb,data integration,"Python, FastAPI"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\opencode\openbb-repos\BenchmarkForecast,forecast benchmarking,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\opencode\openbb-repos\examples,OpenBBexamples,"Python, Jupyter"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\opencode\openbb-repos\onnxruntime,machine learning inference,"C++, Python, C#, Java"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\opencode\openbb-repos\OpenBB,data integration,"Python, FastAPI"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\opencode\openbb-repos\openbb-ai,custom agent SDK,"Python, FastAPI, pydantic"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\opencode\openbb-repos\openbb-cookiecutter,project scaffolding,"Python, Cookiecutter, Poetry"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\opencode\openbb-repos\openbb-forecast,financial forecasting,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\opencode\openbb-repos\OptionPricingModels,option pricingmodels,LaTeX
+C:\Users\AlexJ\Documents\Coding\.archived-repos\opencode\openbb-repos\pywry,HTMLwebviewer,"Python, Rust"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\opencode\packages\app,SolidJS template,"SolidJS, Vite, Playwright"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\opencode\packages\containers,CI container images,"Bun, TypeScript, Docker"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\opencode\packages\desktop,desktop app,"Rust, Tauri, Bun"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\opencode\packages\desktop-electron,desktopapp,"Rust (Tauri), Bun, Vite"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\opencode\packages\docs,documentation site,"Node.js, Mintlify"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\opencode\packages\enterprise,SolidJS framework,"SolidJS, Node.js, JavaScript/TypeScript"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\opencode\packages\opencode,JavaScript application,"TypeScript, Bun"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\opencode\packages\slack,slack threaded bot,"Bun, TypeScript"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\opencode\packages\web,documentation generation,"Astro, TypeScript, MDX"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\opencode\sdks\vscode,VSCode extension,"TypeScript, Bun"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\openfang-repos\openfang,agent operating system,Rust
+C:\Users\AlexJ\Documents\Coding\.archived-repos\openfang-repos\openfang\docs,agent operating system,"Rust, Tauri"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands,AI coding agent,"Python, React"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\.devcontainer,development container,"Docker, devcontainer.json"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\.pytest_cache,pytest cache,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\containers,Docker images,"Docker, GitHub Actions"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\containers\dev,developer tool,Node.js
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\containers\e2b-sandbox,E2B sandbox,"Node.js, Docker"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\containers\runtime,runtime sandbox,"Python, Docker"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\docs,documentation website,"JavaScript, Docusaurus (React)"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\evaluation,agentevaluation,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\evaluation\agent_bench,LLMagent evaluation,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\evaluation\aider_bench,agent evaluation,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\evaluation\biocoder,bioinformatics evaluation,"Python, Docker"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\evaluation\bird,text-to-SQL evaluation,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\evaluation\browsing_delegation,browsing delegation evaluation,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\evaluation\discoverybench,agent-based benchmark evaluation,"Python, Bash"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\evaluation\EDA,LLMagent evaluation,"Python, Bash, TOML"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\evaluation\gaia,agent evaluation,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\evaluation\gorilla,APIBench evaluation,"Python, Docker"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\evaluation\gpqa,agent evaluation,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\evaluation\humanevalfix,agent evaluation,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\evaluation\integration_tests,AI software engineer,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\evaluation\logic_reasoning,logic reasoning evaluation,"Python, Bash"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\evaluation\miniwob,browser agentevaluation,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\evaluation\mint,LLM evaluation,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\evaluation\ml_bench,ML-Bench evaluation,"Python, OpenHands"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\evaluation\regression,regression testing,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\evaluation\scienceagentbench,agent evaluation,"Python, Bash, TOML"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\evaluation\swe_bench,SWE-Bench evaluation,"Bash, Docker"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\evaluation\toolqa,ToolQA evaluation,"Python, Docker"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\evaluation\webarena,web agent evaluation,"Python, BrowserGym"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\frontend,web interface,"Remix SPA Mode, TypeScript, Redux, Tailwind CSS, i18next"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\openhands,AI agent framework,"Python, LiteLLM, Docker"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\openhands\agenthub,multi-agentsystem,"Python, LiteLLM"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\openhands\memory,agent memory,Python
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\openhands\runtime,agentruntime,"Python, Docker"
+C:\Users\AlexJ\Documents\Coding\.archived-repos\OpenHands\openhands\security,agent security,"Python, TypeScript, React"

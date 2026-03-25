@@ -10,9 +10,9 @@ dependencies = [
     "seaborn",
     "networkx",
     "scikit-learn",
-    "pyproject-toml>=0.1.0",
     "pytest",
     "pytest-cov",
     "ruff",
     "mypy",
+    "directory-tree",
 ]

@@ -1,14 +1,12 @@
-import pandas as pd
 import networkx as nx
 import matplotlib.pyplot as plt
 from collections import Counter
 import re
+import config
 
 
-def generate_3d_node_topology(file_path, output_image="codebase_node_graph_3d.png"):
-    # Load and clean data
-    df = pd.read_csv(file_path)
-    df.columns = [c.strip() for c in df.columns]
+def generate_3d_node_topology(df, output_image="codebase_node_graph_3d.png"):
+    # Ensure any missing tags/techs are dropped (the rest was handled by utils.py)
     df = df.dropna(subset=["TAG", "TECH"])
 
     # 1. Identify Key Hubs (Top Techs and Tag Keywords)
@@ -18,10 +16,9 @@ def generate_3d_node_topology(file_path, output_image="codebase_node_graph_3d.pn
     top_techs = [t for t, count in Counter(all_techs).most_common(12)]
 
     all_keywords = []
-    stop_words = {"a", "an", "the", "in", "on", "at", "to", "for", "with", "and", "or", "of"}
     for tag in df["TAG"]:
         words = re.findall(r"\b\w+\b", tag.lower())
-        all_keywords.extend([w for w in words if w not in stop_words and len(w) > 2])
+        all_keywords.extend([w for w in words if w not in config.STOP_WORDS and len(w) > 2])
     top_keywords = [w for w, count in Counter(all_keywords).most_common(15)]
 
     # 2. Construct the Graph
@@ -83,7 +80,3 @@ def generate_3d_node_topology(file_path, output_image="codebase_node_graph_3d.pn
     plt.tight_layout()
     plt.savefig(output_image, dpi=150)
     print(f"Topology saved as {output_image}")
-
-
-# Path to your file
-generate_3d_node_topology("codebase_tags.csv")
