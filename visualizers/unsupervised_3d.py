@@ -54,4 +54,4 @@ def generate_3d_semantic_plot(df, output_image="semantic_3d_plot.png"):
 
     plt.tight_layout()
     plt.savefig(output_image, dpi=150)
-    print(f"✅ 3D Plot saved to {output_image}")
+    print(f"3D Plot saved to {output_image}")

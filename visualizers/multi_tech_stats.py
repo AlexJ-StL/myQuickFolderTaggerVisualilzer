@@ -47,6 +47,6 @@ def generate_multi_tech_stats(df, output_image="tech_synergy_pairs.png"):
     plt.ylabel("Technology Pairs", fontsize=12)
     plt.tight_layout()
     plt.savefig(output_image)
-    print(f"✅ Multi-tech synergy saved to {output_image}")
+    print(f"Multi-tech synergy saved to {output_image}")
 
     return tech_count_dist, common_pairs, focus_stats

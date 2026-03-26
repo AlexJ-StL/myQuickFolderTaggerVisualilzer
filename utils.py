@@ -50,27 +50,42 @@ def load_codebase_data():
             raise ValueError("CSV is missing one of the required columns: PATH, TAG, or TECH.")
 
         # 4. Path Normalization (Privacy & Portability)
+        valid_paths = [str(p) for p in df[path_col] if pd.notna(p)]
+        if valid_paths:
+            split_paths = [p.replace("/", os.sep).replace("\\", os.sep).split(os.sep) for p in valid_paths]
+            common_parts = []
+            min_len = min(len(p) for p in split_paths)
+            for i in range(min_len):
+                if all(p[i] == split_paths[0][i] for p in split_paths):
+                    common_parts.append(split_paths[0][i])
+                else:
+                    break
+            
+            # If the remaining length of the shortest path is 1, 
+            # we are stripping all the way down to the leaf node (the repo itself).
+            # To preserve container context, we step back one directory.
+            if len(common_parts) > 0:
+                min_remaining = min(len(p) - len(common_parts) for p in split_paths)
+                if min_remaining <= 1 and len(common_parts) > 1:
+                    common_parts.pop()
+        else:
+            common_parts = []
+
         def clean_path(p):
             p = str(p).replace("/", os.sep).replace("\\", os.sep)
             parts = p.split(os.sep)
-
-            # Try to find a logical break point (like 'Repos') to truncate absolute paths
-            for marker in config.PATH_MARKERS:
-                if marker in parts:
-                    idx = parts.index(marker)
-                    return os.sep.join(parts[idx:])
-            # If no marker is found, just return the last two folder levels
-            return os.sep.join(parts[-2:]) if len(parts) > 1 else p
+            idx = len(common_parts)
+            if idx >= len(parts):
+                return parts[-1] if parts else p
+            return os.sep.join(parts[idx:])
 
         def extract_root(p):
             p = str(p).replace("/", os.sep).replace("\\", os.sep)
             parts = p.split(os.sep)
-            for marker in config.PATH_MARKERS:
-                if marker in parts:
-                    idx = parts.index(marker)
-                    if idx + 1 < len(parts):
-                        return parts[idx + 1]
-            return parts[0] if parts else "Unknown"
+            idx = len(common_parts)
+            if idx < len(parts):
+                return parts[idx]
+            return parts[-1] if parts else "Unknown"
 
         df["Clean_Path"] = df[path_col].apply(clean_path)
         df["Root"] = df[path_col].apply(extract_root)

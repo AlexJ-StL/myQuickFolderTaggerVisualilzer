@@ -8,16 +8,16 @@ from visualizers.word_frequency_table import get_word_frequency_table
 
 def main():
     try:
-        print("🚀 Starting Codebase Visualization Suite...")
+        print("Starting Codebase Visualization Suite...")
         
         # 1. Setup global aesthetics
         utils.set_viz_style()
 
         # 2. Defensively load data
-        print("🔍 Loading codebase data...")
+        print("Loading codebase data...")
         df = utils.load_codebase_data()
 
-        print("🎨 Generating visualizations...")
+        print("Generating visualizations...")
         
         # 3. Pass clean dataframe to all visualizers sequentially
         generate_multi_tech_stats(df)
@@ -31,10 +31,10 @@ def main():
         for word, count in word_freq[:10]:
             print(f"{word}: {count}")
 
-        print("\n✨ All visualizations generated successfully. Check your directory for the output PNGs.")
+        print("\nAll visualizations generated successfully. Check your directory for the output PNGs.")
 
     except Exception as e:
-        print(f"\n❌ Execution Failed: {e}")
+        print(f"\nExecution Failed: {e}")
 
 if __name__ == "__main__":
     main()

@@ -42,9 +42,10 @@ Explain the 2nd and 3rd order consequences of the design choices made here.
     uv run main.py
     ```
 
-## 5. Configuration (config.py)
-Customize formatting and paths directly in `config.py` without tracking or modifying the logic visually:
-- **PATH_MARKERS**: Keywords (like `["Repos"]`) used to smartly truncate absolute folder paths (`C:\Users\Name\Repos\Project`) down to clean relative strings (`Repos\Project`) on the visual outputs. This cleans up visual density and protects your personal local folder name from leaking in GitHub images.
+## 5. Configuration (`config.py`)
+This tool automatically calculates the Longest Common Prefix amongst all of your codebase paths and seamlessly truncates it for security and multi-root compatibility (e.g., dynamically establishing `Repos` and `.archived-repos` as separate structural containers). 
+
+You can customize the following in `config.py`:
 - **STOP_WORDS**: Words you wish to manually exclude from the Natural Language visualizations to reduce noise.
 
 ## 5. Technical Specification & Testing

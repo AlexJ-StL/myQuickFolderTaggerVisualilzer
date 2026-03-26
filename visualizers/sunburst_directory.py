@@ -57,4 +57,4 @@ def generate_sunburst(df, output_image="sunburst_directory.png"):
     ax.set_title("Sunburst Directory Diagram: Repository Hierarchy", fontsize=18, pad=20)
     plt.tight_layout()
     plt.savefig(output_image)
-    print(f"✅ Sunburst saved to {output_image}")
+    print(f"Sunburst saved to {output_image}")

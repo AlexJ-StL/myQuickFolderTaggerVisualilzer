@@ -10,11 +10,6 @@ DATA_SOURCE_NAME = "codebase_tags.csv"
 # The full path to the data source, resolved dynamically
 DATA_SOURCE = os.path.join(BASE_DIR, DATA_SOURCE_NAME)
 
-# Folder markers to help the scripts identify where a project starts
-# This helps truncate "C:\Users\Name\Documents\Coding\Repos\project"
-# down to just "Repos\project" for cleaner visuals.
-PATH_MARKERS = ["Repos", "Coding", "Documents"]
-
 # Words that should be excluded from the 3D topology and word frequency maps 
 # because they add noise rather than semantic value.
 STOP_WORDS = {

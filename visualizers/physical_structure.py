@@ -15,5 +15,5 @@ def map_physical_structure(df, output_image="physical_structure_map.png"):
     plt.tight_layout()
 
     plt.savefig(output_image)
-    print(f"✅ Physical structure map saved to {output_image}")
+    print(f"Physical structure map saved to {output_image}")
     return root_counts
