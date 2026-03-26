@@ -15,4 +15,5 @@ dependencies = [
     "ruff",
     "mypy",
     "directory-tree",
+    "pyproject-toml>=0.1.0",
 ]

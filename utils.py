@@ -83,7 +83,10 @@ def load_codebase_data():
             p = str(p).replace("/", os.sep).replace("\\", os.sep)
             parts = p.split(os.sep)
             idx = len(common_parts)
-            if idx < len(parts):
+            # The user wants the sub-root (the 'repo group' inside 'Repos' or '.archived-repos')
+            if idx + 1 < len(parts):
+                return parts[idx + 1]
+            elif idx < len(parts):
                 return parts[idx]
             return parts[-1] if parts else "Unknown"
 
